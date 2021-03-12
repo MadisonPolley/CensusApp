@@ -6,7 +6,7 @@ library(mapproj)
 
 source("helpers.R")
 
-counties = readRDS("data\counties.rds")
+counties = readRDS("data/counties.rds")
 
 
 
