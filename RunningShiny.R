@@ -1,3 +1,1 @@
 runGitHub("CensusApp", "MadisonPolley")
-
-runApp()
